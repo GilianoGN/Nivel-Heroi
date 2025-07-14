@@ -2,7 +2,7 @@
 
 // 1. Variáveis para armazenar o nome e a XP do herói
 let nome = "Super Dev";
-let xp = Math.floor(Math.random() * (12001));
+let xp = Math.floor(Math.random() * (11000));
 let nivel;
 
 
